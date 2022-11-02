@@ -1,0 +1,14 @@
+*{
+    background-color: rgb(20, 82, 82);
+}
+.App{
+    border: 3px solid white;
+    border-radius: 5%;
+    width: 150px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
